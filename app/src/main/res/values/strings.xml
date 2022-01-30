@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alcool Ou Gasolina</string>
+    <string name="texto1">Qual é o valor da Gasolina?</string>
+    <string name="textBtnCalcular">Calcular</string>
+    <string name="imgDescription">Imagem principal da tela inicial do App</string>
+    <string name="txtValor">Use a barra para adicionar o valor da Gasolina.</string>
+    <string name="txtVlrInicial">R$0,00</string>
+</resources>
