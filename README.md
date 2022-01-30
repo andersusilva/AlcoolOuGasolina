@@ -6,6 +6,8 @@ App para auxílio no abastecimento automotivo
 - Requisitos para Compilar:
   -  Graddle 7.1;
   -  Android Studio;
-  -  Android SDK, API Target 27;
+  -  Android SDK:
+      -  minSdk 16;
+      -  targetSdk 30;
 
 ![SplashScreen](https://i.imgur.com/yfOxCp7.png)
